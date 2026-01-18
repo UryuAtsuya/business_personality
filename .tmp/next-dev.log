@@ -1,0 +1,8 @@
+▲ Next.js 16.1.0 (webpack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+
+✓ Starting...
+⨯ Unable to acquire lock at /Users/uryuatsuya/bussiness_personality_human/bussiness_personality/.next/dev/lock, is another instance of next dev running?
+  Suggestion: If you intended to restart next dev, terminate the other process, and then try again.
+[?25h
